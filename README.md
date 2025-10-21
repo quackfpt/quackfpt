@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="quackfpt banner" />
+</p>
 
-<!--
-**quackfpt/quackfpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Quack 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/quackfpt">GitHub</a> •
+  <a href="mailto:quantqse184335@fpt.edu.vn">Email</a> •
+  <a href="https://www.linkedin.com/in/quan-tran-quang-1780b2298/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+Cybersecurity & RPA (UiPath) • CTF/RE/Forensics • Building Lozo Academy
+
+### 🧰 Tech
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+
+### 🏆 Highlights
+- 🔐 CTF Writeups: https://github.com/quackfpt/ctf-writeups
+- 🤖 UiPath Labs: https://github.com/quackfpt/uipath-labs
+
+### 📊 Stats
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=quackfpt&show_icons=true&hide_title=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quackfpt&layout=compact&langs_count=8">
