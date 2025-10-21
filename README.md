@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Quack 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/quackfpt">GitHub</a> •
+  <a href="https://www.facebook.com/quan.tranquang.7773">Facebook</a> •
   <a href="mailto:quantqse184335@fpt.edu.vn">Email</a> •
   <a href="https://www.linkedin.com/in/quan-tran-quang-1780b2298/">LinkedIn</a>
 </p>
