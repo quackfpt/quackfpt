@@ -5,10 +5,17 @@
 <h1 align="center">Hi, I'm Quack 👋</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/quan.tranquang.7773">Facebook</a> •
-  <a href="mailto:quantqse184335@fpt.edu.vn">Email</a> •
-  <a href="https://www.linkedin.com/in/quan-tran-quang-1780b2298/">LinkedIn</a>
+  <a href="https://www.facebook.com/quan.tranquang.7773" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:quantqse184335@fpt.edu.vn">
+    <img src="https://img.shields.io/badge/Email-quantqse184335%40fpt.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/quan-tran-quang-1780b2298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ### 🚀 About me
 Cybersecurity & RPA (UiPath) • CTF/RE/Forensics • Building Lozo Academy
